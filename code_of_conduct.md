@@ -68,8 +68,8 @@ Boston Python staff will be happy to help participants contact venue security or
 
 ## Procedure for Handling Incidents
 
-[Attendee Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/attendee-procedure/)
-[Staff Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/)
+* [Attendee Procedure for incident handling](attendee_procedure.md)
+* [Staff Procedure for incident handling](staff_procedure.md)
 
 ## License
 
