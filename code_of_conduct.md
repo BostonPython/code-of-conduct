@@ -56,7 +56,7 @@ Communication outside of events are also subject to the Code of Conduct, includi
 
 If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Boston Python staff immediately.
 
-**Incident reporting**: send email to <leaders@bostonpython.com>
+**Incident reporting**: send email to <conduct@bostonpython.com>
 
 In case of a conflict of interest, you can individually contact one of the organizers:
 
